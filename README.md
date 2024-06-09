@@ -2,3 +2,8 @@
 Search incidents with airplane model
 
 source : https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft
+
+
+project made for fun purpose only
+it took me like 1-2 hrs 
+thanks
